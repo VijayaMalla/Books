@@ -1,0 +1,1 @@
+[Developing on AWS using C# (in PDF)](https://d1.awsstatic.com/developer-center/DevelopingonAWS_ER_fulldraft_net.pdf)
